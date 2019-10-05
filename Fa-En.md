@@ -6,7 +6,8 @@
 
 بحثها:
 
-https://github.com/AlirezaInGitHub/TranslationHub/issues/1
+[اولین بجث:](https://github.com/AlirezaInGitHub/TranslationHub/issues/1)
+
 ---
 
 </div>
