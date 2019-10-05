@@ -4,4 +4,9 @@
 
 - چالش : Challenge
 
+بحثها:
+
+https://github.com/AlirezaInGitHub/TranslationHub/issues/1
+---
+
 </div>
